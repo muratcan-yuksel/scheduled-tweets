@@ -1,0 +1,11 @@
+{
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "explorer.confirmDelete": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "html.erb": "html",
+    "ruby": "html"
+  }
+}
